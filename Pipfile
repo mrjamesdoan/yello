@@ -9,7 +9,21 @@ verify_ssl = true
 django = "*"
 gunicorn = "*"
 django-heroku = "*"
-
+chardet = "*"
+colorama = "*"
+dj-database-url = "*"
+djangorestframework = "*"
+gunicorn = "*"
+html5lib = "*"
+language-selector = "*"
+psycopg2 = "*"
+pycurl= = "*"
+pygobject = "*"
+pytz = "*"
+requests = "*"
+six = "*"
+urllib3 = "*"
+whitenoise = "*"
 
 [requires]
 
